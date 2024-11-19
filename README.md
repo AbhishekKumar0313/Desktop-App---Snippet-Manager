@@ -50,7 +50,6 @@ Below are some screenshots showcasing the core features of the Snippet Manager:
   _signing new user
   
 7. **Export Snippets to PDF**  
-   ![Export to PDF](https://github.com/AbhishekKumar0313/Snippet-Manager/blob/main/Code%20Snippet%20Organizer/Screenshot%202024-11-14%20221315.png)
    ![Export to PDF](https://github.com/AbhishekKumar0313/Snippet-Manager/blob/main/Code%20Snippet%20Organizer/Screenshot%202024-11-14%20221334.png)
    _Generate a PDF containing all saved snippets._
 ## Getting Started
